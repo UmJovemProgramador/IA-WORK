@@ -33,7 +33,7 @@ function SendQuestion() {
       } else if (json.choices?.[0].text) {
         var text = json.choices[0].text || "Sem resposta";
 
-        result.value += "Chat GPT: " + text;
+        result.value += "\nSara IA: " + text;
       }
 
       result.scrollTop = result.scrollHeight;
