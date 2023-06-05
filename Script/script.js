@@ -5,7 +5,7 @@ inputQuestion.addEventListener("keypress", (e) => {
   if (inputQuestion.value && e.key === "Enter") SendQuestion();
 });
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 function SendQuestion() {
   var sQuestion = inputQuestion.value;
