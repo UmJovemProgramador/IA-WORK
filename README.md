@@ -1,1 +1,1 @@
-<img src="/Imagem/IA.png" alt="Texto alternativo">
+<img src="/Imagem/ia.png" alt="Texto alternativo">
