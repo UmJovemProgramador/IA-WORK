@@ -1,1 +1,1 @@
-<img src="caminho/para/imagem.jpg" alt="Texto alternativo">
+<img src="/Imagem/IA.png" alt="Texto alternativo">
