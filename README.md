@@ -1,1 +1,1 @@
-<img src="GeradorDeQrCode.webp" alt="Texto alternativo">
+<img src="IA.webp" alt="Texto alternativo">
