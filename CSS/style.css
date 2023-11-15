@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color:  #1d1e23;
+    background-color:  #F6BE2C;
     display: flex;
     justify-content: center;
     width: 100vw;
@@ -23,7 +23,7 @@ textarea {
     resize: none;
     border: none;
     padding: 8px;
-    background-color: #3c3d46;
+    background-color: #1f1f1f;
     color: white;
     outline: none;
     font-size: 24px;
